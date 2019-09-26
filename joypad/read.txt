@@ -1,0 +1,3 @@
+cd /home/yang/b503/ctools/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/bin
+export PATH=$PATH:$(pwd)
+arm-fsl-linux-gnueabi-gcc testpad.c -o testpad

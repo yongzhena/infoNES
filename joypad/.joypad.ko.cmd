@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/b503/imax283/infones/arm-NES-linux/joypad/joypad.ko := arm-fsl-linux-gnueabi-ld -EL -r  -T /mnt/hgfs/b503/imax283/linux-2.6.35.3/scripts/module-common.lds --build-id -o /mnt/hgfs/b503/imax283/infones/arm-NES-linux/joypad/joypad.ko /mnt/hgfs/b503/imax283/infones/arm-NES-linux/joypad/joypad.o /mnt/hgfs/b503/imax283/infones/arm-NES-linux/joypad/joypad.mod.o
